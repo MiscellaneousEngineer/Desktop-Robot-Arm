@@ -13,10 +13,10 @@ They use minimal hardware and were designed so I could make them with what I had
 
 CAD renders :
 
-<img width="500" height="450" alt="Cyclodial_drive_2026-Feb-25_03-03-03PM-000_CustomizedView8874005828" src="https://github.com/user-attachments/assets/473eee32-cb99-4187-96a6-2b2caf9eedea" />
-<img width="500" height="500" alt="Cyclodial_drive_2026-Feb-25_03-02-43PM-000_CustomizedView8807567246" src="https://github.com/user-attachments/assets/d3074b2b-feb5-436a-9745-864e5d15ec5c" />
-<img width="500" height="500" alt="Cyclodial_drive_2026-Feb-25_03-01-03PM-000_CustomizedView12993453413" src="https://github.com/user-attachments/assets/b6fbb185-717e-4812-8867-d9609f464bdb" />
-<img width="500" height="500" alt="Cyclodial_drive_2026-Feb-25_03-00-39PM-000_CustomizedView51935270939" src="https://github.com/user-attachments/assets/67f74713-df1e-4bb0-a577-40b1acba7a1f" />
+<img width="400" height="350" alt="Cyclodial_drive_2026-Feb-25_03-03-03PM-000_CustomizedView8874005828" src="https://github.com/user-attachments/assets/473eee32-cb99-4187-96a6-2b2caf9eedea" />
+<img width="400" height="400" alt="Cyclodial_drive_2026-Feb-25_03-02-43PM-000_CustomizedView8807567246" src="https://github.com/user-attachments/assets/d3074b2b-feb5-436a-9745-864e5d15ec5c" />
+<img width="400" height="400" alt="Cyclodial_drive_2026-Feb-25_03-01-03PM-000_CustomizedView12993453413" src="https://github.com/user-attachments/assets/b6fbb185-717e-4812-8867-d9609f464bdb" />
+<img width="400" height="400" alt="Cyclodial_drive_2026-Feb-25_03-00-39PM-000_CustomizedView51935270939" src="https://github.com/user-attachments/assets/67f74713-df1e-4bb0-a577-40b1acba7a1f" />
 
 Photos :
 
