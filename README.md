@@ -20,4 +20,11 @@ CAD renders :
 
 Photos :
 
+<img width="500" height="500" alt="20260225_161459" src="https://github.com/user-attachments/assets/922faef0-d86e-42f0-9ce0-83d92d4ba125" />
+<img width="500" height="500" alt="20260225_161510" src="https://github.com/user-attachments/assets/53703dd7-a071-46b4-8cb9-e4c505972650" />
+<img width="500" height="1000" alt="20260225_161840" src="https://github.com/user-attachments/assets/5a277373-6121-450e-8ca6-9fea9471019f" />
+<img width="500" height="2000" alt="20260225_162128" src="https://github.com/user-attachments/assets/cc0ddd50-7024-44e2-a94a-25d7ed54f368" />
+
+
+
 
